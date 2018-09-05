@@ -3,7 +3,7 @@
 ### Technologies Used: Python 3.7, Django Framework
 
 #### The Api Project is to find and store the Data in the database
-To Run The Project please follow the Following Steps:
+###### To Run the Project please use the following steps:
 1. Open CMD
 2. Go to the directory where project is saved.
 3. Run the command >>Python manage.py migrate
