@@ -2,7 +2,7 @@
 # The Project is all about finding the Github user and saving them in the SQL database which is connected with Django.
 # Technologies Used: Python 3.7, Django Framework
 
-The Api Project to find and store Data in database
+## The Api Project is to find and store the Data in the database
 To Run The Project please follow the Following Steps:
 1. Open CMD
 2. Go to the directory where project is saved.
